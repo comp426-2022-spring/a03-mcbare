@@ -1,0 +1,23 @@
+{
+  "name": "a03-mcbare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a03-mcbare.git"
+  },
+  "author": "Matthew Bare",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a03-mcbare/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a03-mcbare#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "minimist": "^1.2.6"
+  }
+}
